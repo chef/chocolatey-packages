@@ -3,7 +3,7 @@
   <metadata>
     <id>chefdk</id>
     <title>Chef Development Kit</title>
-    <tags>chefdk chef-client chef test-kitchen chefspec foodcritic knife inspec</tags>
+    <tags>chefdk chef-dk chef-client chef test-kitchen chefspec foodcritic knife inspec</tags>
     <summary>The Chef Development Kit (ChefDK) brings the best-of-breed development tools built by the awesome Chef community to your workstation with just a few clicks. Download your package and start coding Chef in seconds.</summary>
     <description>The Chef Development Kit contains everything you need to start using Chef, along with the tools essential to managing the code that runs your business. ChefDK contains: Chef CLI for managing policy files and generating cookbooks. The well-known cookbook dependency manager Berkshelf. The Test Kitchen integration testing framework.  ChefSpec, which makes unit testing cookbooks a breeze. Foodcritic, a linting tool for doing static code analysis on cookbooks. All of the Chef tools you're already familiar with: Chef Client, Knife, Ohai and Chef Zero.</description>
     <authors>Chef Software, Inc.</authors>
