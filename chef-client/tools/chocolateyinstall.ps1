@@ -1,13 +1,13 @@
 $packageArgs = @{
   packageName = 'chef-client'
   fileType = 'msi'
-  url = 'https://packages.chef.io/files/stable/chef/14.2.0/windows/2016/chef-client-14.2.0-1-x86.msi'
-  url64 = 'https://packages.chef.io/files/stable/chef/14.2.0/windows/2016/chef-client-14.2.0-1-x64.msi'
+  url = 'https://packages.chef.io/files/stable/chef/14.3.37/windows/2016/chef-client-14.3.37-1-x86.msi'
+  url64 = 'https://packages.chef.io/files/stable/chef/14.3.37/windows/2016/chef-client-14.3.37-1-x64.msi'
   silentArgs = '/quiet'
   validExitCodes = @(0)
-  checksum = '881933ef41d879946efb080459b87b1f1f6bec86eae895e7f229d4778f398b7d'
+  checksum = '1ee555c4cd61aa3ef1d58b86e5a20458cd56b51f29881910968a17b042200d26'
   checksumType = 'sha256'
-  checksum64 = '8744c716386b82f792f41ba286431e88afeb3efd68ee46cd46516b1d6930722c'
+  checksum64 = 'f5ef8c31898592824751ec2252fe317c0f667db25ac40452710c8ccf35a1b28d'
   checksumType64 = 'sha256'
 }
 
