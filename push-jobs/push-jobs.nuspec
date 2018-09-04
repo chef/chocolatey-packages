@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>push-jobs</id>
+    <title>Chef Push Jobs Client</title>
+    <tags>chef push jobs client</tags>
+    <summary>Chef push jobs is an extension of the Chef server that allows jobs to be run against nodes independently of a chef-client run. A job is an action or a command to be executed against a subset of nodes; the nodes against which a job is run are determined by the results of a search query made to the Chef server.</summary>
+    <description>Chef push jobs is an extension of the Chef server that allows jobs to be run against nodes independently of a chef-client run. A job is an action or a command to be executed against a subset of nodes; the nodes against which a job is run are determined by the results of a search query made to the Chef server. Chef push jobs uses the Chef server API and a Ruby client to initiate all connections to the Chef server. Connections use the same authentication and authorization model as any other request made to the Chef server. A knife plugin is used to initiate job creation and job tracking.</description>
+    <authors>Chef Software, Inc.</authors>
+    <owners>Chef Software, Inc.</owners>
+    <copyright>2018 Chef Software, Inc.</copyright>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <bugTrackerUrl>https://github.com/chef/chef-push</bugTrackerUrl>
+    <docsUrl>https://docs.chef.io/push_jobs.html</docsUrl>
+    <iconUrl>https://raw.githubusercontent.com/chef/chocolatey-packages/master/chef.png</iconUrl>
+    <licenseUrl>https://raw.githubusercontent.com/chef/chef/master/LICENSE</licenseUrl>
+    <mailingListUrl>https://discourse.chef.io/</mailingListUrl>
+    <packageSourceUrl>https://github.com/chef/chocolatey-packages/</packageSourceUrl>
+    <projectSourceUrl>https://github.com/chef/chef-push</projectSourceUrl>
+    <projectUrl>https://github.com/chef/chef-push</projectUrl>
+    <releaseNotes>[Release Notes](https://docs.chef.io/release_notes_push_jobs.html)</releaseNotes>
+    <version>3.1.0</version>
+  </metadata>
+</package>
