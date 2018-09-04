@@ -21,4 +21,7 @@
     <releaseNotes>[Release Notes](https://github.com/chef/chef-dk/blob/v3.1.0/RELEASE_NOTES.md)</releaseNotes>
     <version>3.1.0</version>
   </metadata>
+  <files>
+    <file src="tools\**" target="tools"/>
+  </files>
 </package>

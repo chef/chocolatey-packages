@@ -10,7 +10,7 @@
     <owners>Chef Software, Inc.</owners>
     <copyright>2018 Chef Software, Inc.</copyright>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <bugTrackerUrl>https://github.com/chef/chef-workstation</bugTrackerUrl>
+    <bugTrackerUrl>https://github.com/chef/chef-workstation/issues</bugTrackerUrl>
     <docsUrl>https://www.chef.sh/docs/chef-workstation/getting-started/</docsUrl>
     <iconUrl>https://raw.githubusercontent.com/chef/chocolatey-packages/master/chef.png</iconUrl>
     <licenseUrl>https://raw.githubusercontent.com/chef/chef-workstation/master/LICENSE</licenseUrl>
@@ -21,4 +21,7 @@
     <releaseNotes>[Changelog](https://github.com/chef/chef-workstation/blob/master/CHANGELOG.md)</releaseNotes>
     <version>0.1.162</version>
   </metadata>
+  <files>
+    <file src="tools\**" target="tools"/>
+  </files>
 </package>

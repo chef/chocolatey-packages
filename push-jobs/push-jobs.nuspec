@@ -21,4 +21,7 @@
     <releaseNotes>[Release Notes](https://docs.chef.io/release_notes_push_jobs.html)</releaseNotes>
     <version>2.5.0</version>
   </metadata>
+  <files>
+    <file src="tools\**" target="tools"/>
+  </files>
 </package>
