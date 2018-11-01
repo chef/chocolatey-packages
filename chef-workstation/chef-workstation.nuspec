@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
-    <id>chef-workstatiopn</id>
+    <id>chef-workstation</id>
     <title>Chef Workstation</title>
     <tags>chefdk chef-dk chef workstation chef-client client development</tags>
     <summary>Chef Workstation gives you everything you need to get started with Chef. Ad-hoc remote execution, scans and configuration tasks, cookbook creation tools, as well as robust dependency and testing software all in one easy-to-install package.</summary>
