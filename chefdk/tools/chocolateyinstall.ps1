@@ -1,19 +1,19 @@
-$version = '3.5.13'
+$version = '3.7.23'
 $url = "https://packages.chef.io/stable/windows/2012r2/chefdk-$version-1-x86.msi"
 $url64 = "https://packages.chef.io/stable/windows/2012r2/chefdk-$version-1-x64.msi"
 
 $packageArgs = @{
-    packageName   = 'chefdk'
-    unzipLocation = $toolsDir
-    fileType      = 'MSI'
-    url           = $url
-    url64bit      = $url64
-    checksum      = 'f02d756e04958ea050008432e03f26fae3c363e597e51391b15931254e2eee8e'
-    checksumType  = 'sha256'
-    checksum64    = '8007bf40f06e11ce0957176e63d834f19d4f498768ea90ab8053ec659c2ed748'
-    checksumType64= 'sha256'
-    silentArgs    = "/qn /quiet /norestart"
-    validExitCodes= @(0, 3010)
+    packageName    = 'chefdk'
+    unzipLocation  = $toolsDir
+    fileType       = 'MSI'
+    url            = $url
+    url64bit       = $url64
+    checksum       = '0e30e75add1fd980e202866b18657e9391a70f52e665382487df8450752d5249'
+    checksumType   = 'sha256'
+    checksum64     = '391e8d62436820f07a9ac89d4ab163703a3541f1d33ff8b76d18aea35d3d3b7c'
+    checksumType64 = 'sha256'
+    silentArgs     = "/qn /quiet /norestart"
+    validExitCodes = @(0, 3010)
 }
 
 Install-ChocolateyPackage @packageArgs
