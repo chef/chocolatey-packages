@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>inspec</id>
+    <title>InSpec</title>
+    <tags>inspec chef compliance</tags>
+    <summary>InSpec is an open-source testing framework for infrastructure with a human-readable language for specifying compliance, security and other policy requirements. When compliance is code, you can integrate automated tests that check for adherence to policy into any stage of your deployment pipeline.</summary>
+    <description>InSpec is an open-source testing framework for infrastructure with a human-readable language for specifying compliance, security and other policy requirements. When compliance is code, you can integrate automated tests that check for adherence to policy into any stage of your deployment pipeline.</description>
+    <authors>Chef Software, Inc.</authors>
+    <owners>Chef Software, Inc.</owners>
+    <copyright>2019 Chef Software, Inc.</copyright>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <bugTrackerUrl>https://github.com/inspec/inspec/issues</bugTrackerUrl>
+    <docsUrl>https://www.inspec.io/docs/</docsUrl>
+    <iconUrl>https://raw.githubusercontent.com/chef/chocolatey-packages/master/inspec.png</iconUrl>
+    <licenseUrl>https://raw.githubusercontent.com/inspec/inspec/master/LICENSE</licenseUrl>
+    <mailingListUrl>https://discourse.chef.io/</mailingListUrl>
+    <packageSourceUrl>https://github.com/chef/chocolatey-packages/</packageSourceUrl>
+    <projectSourceUrl>https://github.com/inspec/inspec</projectSourceUrl>
+    <projectUrl>https://github.com/inspec/inspec/</projectUrl>
+    <releaseNotes>[Changelog](https://github.com/inspec/inspec/blob/master/CHANGELOG.md)</releaseNotes>
+    <version>3.6.6</version>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools"/>
+  </files>
+</package>
