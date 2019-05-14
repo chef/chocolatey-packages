@@ -4,11 +4,11 @@
     <id>chef-client</id>
     <title>Chef Client</title>
     <tags>chef-client ohai cfgmgmt</tags>
-    <summary>Chef is a configuration management tool designed to bring automation to your entire infrastructure.</summary>
-    <description>Chef is a configuration management tool designed to bring automation to your entire infrastructure.</description>
+    <summary>Chef Infra Client is a configuration management tool designed to bring automation to your entire infrastructure.</summary>
+    <description>Chef Infra Client is a configuration management tool designed to bring automation to your entire infrastructure.</description>
     <authors>Chef Software, Inc.</authors>
     <owners>Chef Software, Inc.</owners>
-    <copyright>2018 Chef Software, Inc.</copyright>
+    <copyright>2019 Chef Software, Inc.</copyright>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <bugTrackerUrl>https://github.com/chef/chef/issues</bugTrackerUrl>
     <docsUrl>https://docs.chef.io/</docsUrl>
@@ -18,8 +18,8 @@
     <packageSourceUrl>https://github.com/chef/chocolatey-packages/</packageSourceUrl>
     <projectSourceUrl>https://github.com/chef/chef</projectSourceUrl>
     <projectUrl>https://github.com/chef/chef/</projectUrl>
-    <releaseNotes>[Release Notes](https://github.com/chef/chef/blob/v14.12.9/RELEASE_NOTES.md)</releaseNotes>
-    <version>14.12.9</version>
+    <releaseNotes>[Release Notes](https://github.com/chef/chef/blob/v15.0.293/RELEASE_NOTES.md)</releaseNotes>
+    <version>15.0.293</version>
   </metadata>
   <files>
     <file src="tools\**" target="tools"/>
