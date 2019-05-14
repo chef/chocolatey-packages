@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>chef-client</id>
-    <title>Chef Client</title>
+    <title>Chef Infra Client</title>
     <tags>chef-client ohai cfgmgmt</tags>
     <summary>Chef Infra Client is a configuration management tool designed to bring automation to your entire infrastructure.</summary>
     <description>Chef Infra Client is a configuration management tool designed to bring automation to your entire infrastructure.</description>
