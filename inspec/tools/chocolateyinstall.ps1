@@ -1,4 +1,4 @@
-$version = '3.6.6'
+$version = '3.9.3'
 $url = "https://packages.chef.io/stable/windows/2012/inspec-$version-1-x64.msi"
 
 $packageArgs = @{

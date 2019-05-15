@@ -2,10 +2,10 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>inspec</id>
-    <title>InSpec</title>
+    <title>Chef InSpec</title>
     <tags>inspec chef compliance</tags>
-    <summary>InSpec is an open-source testing framework for infrastructure with a human-readable language for specifying compliance, security and other policy requirements. When compliance is code, you can integrate automated tests that check for adherence to policy into any stage of your deployment pipeline.</summary>
-    <description>InSpec is an open-source testing framework for infrastructure with a human-readable language for specifying compliance, security and other policy requirements. When compliance is code, you can integrate automated tests that check for adherence to policy into any stage of your deployment pipeline.</description>
+    <summary>Chef InSpec is an open-source testing framework for infrastructure with a human-readable language for specifying compliance, security and other policy requirements. When compliance is code, you can integrate automated tests that check for adherence to policy into any stage of your deployment pipeline.</summary>
+    <description>Chef InSpec is an open-source testing framework for infrastructure with a human-readable language for specifying compliance, security and other policy requirements. When compliance is code, you can integrate automated tests that check for adherence to policy into any stage of your deployment pipeline.</description>
     <authors>Chef Software, Inc.</authors>
     <owners>Chef Software, Inc.</owners>
     <copyright>2019 Chef Software, Inc.</copyright>
@@ -19,7 +19,7 @@
     <projectSourceUrl>https://github.com/inspec/inspec</projectSourceUrl>
     <projectUrl>https://github.com/inspec/inspec/</projectUrl>
     <releaseNotes>[Changelog](https://github.com/inspec/inspec/blob/master/CHANGELOG.md)</releaseNotes>
-    <version>3.6.6</version>
+    <version>3.9.3</version>
   </metadata>
   <files>
     <file src="tools\**" target="tools"/>
