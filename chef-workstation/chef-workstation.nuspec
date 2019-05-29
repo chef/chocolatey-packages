@@ -19,7 +19,7 @@
     <projectSourceUrl>https://github.com/chef/chef-workstation</projectSourceUrl>
     <projectUrl>https://github.com/chef/chef-workstation/</projectUrl>
     <releaseNotes>[Changelog](https://github.com/chef/chef-workstation/blob/master/CHANGELOG.md)</releaseNotes>
-    <version>0.2.48</version>
+    <version>0.2.53</version>
   </metadata>
   <files>
     <file src="tools\**" target="tools"/>
