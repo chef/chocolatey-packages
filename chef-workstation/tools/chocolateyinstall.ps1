@@ -1,4 +1,4 @@
-$version = '0.4.2'
+$version = '0.5.1'
 $url64 = "https://packages.chef.io/files/stable/chef-workstation/$version/windows/2016/chef-workstation-$version-1-x64.msi"
 
 $packageArgs = @{
@@ -6,7 +6,7 @@ $packageArgs = @{
     unzipLocation  = $toolsDir
     fileType       = 'MSI'
     url64bit       = $url64
-    checksum64     = 'eb2c985792010f026dabb9a58749257a2b469a74ab30a42ea56e48d3bbd7c787'
+    checksum64     = '6d345bc24e920fb2f5d84513d8d075bb3edaafb81547274caea7d96849a30e42'
     checksumType64 = 'sha256'
     silentArgs     = "/qn /quiet /norestart"
     validExitCodes = @(0, 3010)
