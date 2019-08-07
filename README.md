@@ -1,5 +1,13 @@
 # chocolatey-packages
 
+**Umbrella Project**: [Chef Foundation](https://github.com/chef/chef-oss-practices/blob/master/projects/chef-foundation.md)
+
+**Project State**: [Active](https://github.com/chef/chef-oss-practices/blob/master/repo-management/repo-states.md#active)
+
+**Issues [Response Time Maximum](https://github.com/chef/chef-oss-practices/blob/master/repo-management/repo-states.md)**: 14 days
+
+**Pull Request [Response Time Maximum](https://github.com/chef/chef-oss-practices/blob/master/repo-management/repo-states.md)**: 14 days
+
 A place for storing [Chocolatey](https://chocolatey.org/) packages managed by Chef!
 
 ## Updating Packages
