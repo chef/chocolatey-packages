@@ -1,4 +1,4 @@
-$version = '15.4.45'
+$version = '15.5.15'
 
 $packageArgs = @{
     packageName    = 'chef-client'
@@ -9,7 +9,7 @@ $packageArgs = @{
     validExitCodes = @(0)
     checksum       = 'a4aa896c137277ae6e3f790573d3570c5a0fa971a986c80e3610ec1f56e3e12a'
     checksumType   = 'sha256'
-    checksum64     = '7f334ee6184fea49beb2cef479ef06311953e01942da4baf27f9707dfae5a06a'
+    checksum64     = '4040ab14488ace30f75d4f553b6897255dff874d192e151de5564659bf9888df'
     checksumType64 = 'sha256'
 }
 
