@@ -1,4 +1,4 @@
-$version = '4.5.0'
+$version = '4.6.35'
 $url = "https://packages.chef.io/files/stable/chefdk/$version/windows/2012r2/chefdk-$version-1-x86.msi"
 $url64 = "https://packages.chef.io/files/stable/chefdk/$version/windows/2012r2/chefdk-$version-1-x64.msi"
 
@@ -8,9 +8,9 @@ $packageArgs = @{
     fileType       = 'MSI'
     url            = $url
     url64bit       = $url64
-    checksum       = 'c4297c4a36575bbedf0489b4fb1755fa174552fa883eaae57fb30b45af4b21d0'
+    checksum       = 'd63e7236dc0f29592276921b1b0386df4b44dd2e23242cd1f19d25793c0eb1a7'
     checksumType   = 'sha256'
-    checksum64     = '32db073a94097c808be596106a93141c8c97b0b1c1efb033072acdcbbf67fe4b'
+    checksum64     = '27884d9c9805c2a064828c2eb451366b957c08c4ad7cb4fd4de672a1e8355b02'
     checksumType64 = 'sha256'
     silentArgs     = "/qn /quiet /norestart"
     validExitCodes = @(0, 3010)
