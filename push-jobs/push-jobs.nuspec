@@ -19,7 +19,7 @@
     <projectSourceUrl>https://github.com/chef/chef-push</projectSourceUrl>
     <projectUrl>https://github.com/chef/chef-push</projectUrl>
     <releaseNotes>[Release Notes](https://docs.chef.io/release_notes_push_jobs.html)</releaseNotes>
-    <version>2.5.0</version>
+    <version>2.5.06/version>
   </metadata>
   <files>
     <file src="tools\**" target="tools"/>
