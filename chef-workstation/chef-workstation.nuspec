@@ -18,8 +18,8 @@
     <packageSourceUrl>https://github.com/chef/chocolatey-packages/</packageSourceUrl>
     <projectSourceUrl>https://github.com/chef/chef-workstation</projectSourceUrl>
     <projectUrl>https://github.com/chef/chef-workstation/</projectUrl>
-    <releaseNotes>https://packages.chef.io/release-notes/chef-workstation/0.16.33.md</releaseNotes>
-    <version>0.16.33</version>
+    <releaseNotes>https://packages.chef.io/release-notes/chef-workstation/0.17.5.md</releaseNotes>
+    <version>0.17.5</version>
   </metadata>
   <files>
     <file src="tools\**" target="tools"/>
