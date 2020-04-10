@@ -3,7 +3,7 @@
   <metadata>
     <id>chef-workstation</id>
     <title>Chef Workstation</title>
-    <tags>chefdk chef-dk chef workstation chef-client client development</tags>
+    <tags>chefdk chef-dk chef workstation chef-client client development chef-workstation</tags>
     <summary>Chef Workstation gives you everything you need to get started with Chef. Ad-hoc remote execution, scans and configuration tasks, cookbook creation tools, as well as robust dependency and testing software all in one easy-to-install package.</summary>
     <description>Chef Workstation gives you everything you need to get started with Chef. Ad-hoc remote execution, scans and configuration tasks, cookbook creation tools, as well as robust dependency and testing software all in one easy-to-install package.</description>
     <authors>Chef Software, Inc.</authors>
