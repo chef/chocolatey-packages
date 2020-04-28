@@ -8,7 +8,7 @@
     <description>Chef Infra Client is a configuration management tool designed to bring automation to your entire infrastructure.</description>
     <authors>Chef Software, Inc.</authors>
     <owners>Chef Software, Inc.</owners>
-    <copyright>2019 Chef Software, Inc.</copyright>
+    <copyright>Chef Software, Inc.</copyright>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <bugTrackerUrl>https://github.com/chef/chef/issues</bugTrackerUrl>
     <docsUrl>https://docs.chef.io/</docsUrl>
@@ -18,8 +18,8 @@
     <packageSourceUrl>https://github.com/chef/chocolatey-packages/</packageSourceUrl>
     <projectSourceUrl>https://github.com/chef/chef</projectSourceUrl>
     <projectUrl>https://github.com/chef/chef/</projectUrl>
-    <releaseNotes>[Release Notes](https://github.com/chef/chef/blob/v15.10.12/RELEASE_NOTES.md)</releaseNotes>
-    <version>15.10.12</version>
+    <releaseNotes>[Release Notes](https://github.com/chef/chef/blob/v16.0.257/RELEASE_NOTES.md)</releaseNotes>
+    <version>16.0.257</version>
   </metadata>
   <files>
     <file src="tools\**" target="tools"/>
