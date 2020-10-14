@@ -8,7 +8,7 @@
     <description>Chef InSpec is an open-source testing framework for infrastructure with a human-readable language for specifying compliance, security and other policy requirements. When compliance is code, you can integrate automated tests that check for adherence to policy into any stage of your deployment pipeline.</description>
     <authors>Chef Software, Inc.</authors>
     <owners>Chef Software, Inc.</owners>
-    <copyright>2019-2020 Chef Software, Inc.</copyright>
+    <copyright>Chef Software, Inc.</copyright>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <bugTrackerUrl>https://github.com/inspec/inspec/issues</bugTrackerUrl>
     <docsUrl>https://www.inspec.io/docs/</docsUrl>
@@ -18,8 +18,8 @@
     <packageSourceUrl>https://github.com/chef/chocolatey-packages/</packageSourceUrl>
     <projectSourceUrl>https://github.com/inspec/inspec</projectSourceUrl>
     <projectUrl>https://github.com/inspec/inspec/</projectUrl>
-    <releaseNotes>[Changelog](https://github.com/inspec/inspec/blob/v4.22.8/CHANGELOG.md)</releaseNotes>
-    <version>4.22.8</version>
+    <releaseNotes>[Changelog](https://github.com/inspec/inspec/blob/v4.23.11/CHANGELOG.md)</releaseNotes>
+    <version>4.23.11</version>
   </metadata>
   <files>
     <file src="tools\**" target="tools"/>
