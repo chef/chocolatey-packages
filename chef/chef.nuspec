@@ -18,8 +18,8 @@
     <packageSourceUrl>https://github.com/chef/chocolatey-packages/</packageSourceUrl>
     <projectSourceUrl>https://github.com/chef/chef</projectSourceUrl>
     <projectUrl>https://github.com/chef/chef/</projectUrl>
-    <releaseNotes>[Release Notes](https://github.com/chef/chef/blob/v16.9.32/RELEASE_NOTES.md)</releaseNotes>
-    <version>16.9.32</version>
+    <releaseNotes>[Release Notes](https://github.com/chef/chef/blob/v16.10.17/RELEASE_NOTES.md)</releaseNotes>
+    <version>16.10.17</version>
   </metadata>
   <files>
     <file src="tools\**" target="tools"/>

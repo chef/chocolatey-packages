@@ -1,4 +1,4 @@
-$version = '16.9.32'
+$version = '16.10.17'
 
 $packageArgs = @{
     packageName    = 'chef-client'
@@ -7,9 +7,9 @@ $packageArgs = @{
     url64          = "https://packages.chef.io/files/stable/chef/$version/windows/2012r2/chef-client-$version-1-x64.msi"
     silentArgs     = '/quiet'
     validExitCodes = @(0)
-    checksum       = '3681244e80b5981c8a5a8bd0c3c52f9676dd36101e099404b9cebc04ba59f75d'
+    checksum       = '163a74a96626bc745e42a61e8965093ecf2ac4aed4c2684ce410fc19825eb6d9'
     checksumType   = 'sha256'
-    checksum64     = '45596761327eb2e0c6d300522bbf21335e00c7070b7000d2161667da800195be'
+    checksum64     = 'b9f56f99c674b137e2f4b87aae3068cf17904423640fb2798bfa286cb3ec6862'
     checksumType64 = 'sha256'
 }
 
