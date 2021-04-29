@@ -1,11 +1,11 @@
-$version = '4.33.1'
+$version = '4.36.4'
 
 $packageArgs = @{
     packageName    = 'inspec'
     unzipLocation  = $toolsDir
     fileType       = 'msi'
     url64bit       = "https://packages.chef.io/files/stable/inspec/$version/windows/2016/inspec-$version-1-x64.msi"
-    checksum64     = 'a7d8a6278e074f024e3c159b27badac4fed5f8ba73ef0a4444b730c89f771fe8'
+    checksum64     = '1ba962346e19a44cf3b32ffdb7bfc893c9fbf8bb8004997153bbab8485cdc27f'
     checksumType64 = 'sha256'
     silentArgs     = "/qn /quiet /norestart"
     validExitCodes = @(0, 3010)

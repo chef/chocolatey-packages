@@ -18,8 +18,8 @@
     <packageSourceUrl>https://github.com/chef/chocolatey-packages/</packageSourceUrl>
     <projectSourceUrl>https://github.com/inspec/inspec</projectSourceUrl>
     <projectUrl>https://github.com/inspec/inspec/</projectUrl>
-    <releaseNotes>[Changelog](https://github.com/inspec/inspec/blob/v4.33.1/CHANGELOG.md)</releaseNotes>
-    <version>4.33.1</version>
+    <releaseNotes>[Changelog](https://github.com/inspec/inspec/blob/v4.36.4/CHANGELOG.md)</releaseNotes>
+    <version>4.36.4</version>
   </metadata>
   <files>
     <file src="tools\**" target="tools"/>
