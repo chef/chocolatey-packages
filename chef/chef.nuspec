@@ -3,7 +3,7 @@
   <metadata>
     <id>chef-client</id>
     <title>Chef Infra Client</title>
-    <tags>chef-client ohai cfgmgmt</tags>
+    <tags>chef infra chef-client ohai cfgmgmt</tags>
     <summary>Chef Infra Client is a configuration management tool designed to bring automation to your entire infrastructure.</summary>
     <description>Chef Infra Client is a configuration management tool designed to bring automation to your entire infrastructure.</description>
     <authors>Chef Software, Inc.</authors>
@@ -15,9 +15,9 @@
     <iconUrl>https://raw.githubusercontent.com/chef/chocolatey-packages/main/chef/chef.png</iconUrl>
     <licenseUrl>https://www.chef.io/end-user-license-agreement/</licenseUrl>
     <mailingListUrl>https://discourse.chef.io/</mailingListUrl>
-    <projectUrl>https://www.chef.io/products/chef-infra</projectUrl>
-    <projectSourceUrl>https://github.com/chef/chef</projectSourceUrl>
     <packageSourceUrl>https://github.com/chef/chocolatey-packages</packageSourceUrl>
+    <projectSourceUrl>https://github.com/chef/chef</projectSourceUrl>
+    <projectUrl>https://www.chef.io/products/chef-infra</projectUrl>
     <releaseNotes>[Release Notes](https://docs.chef.io/release_notes_client/)</releaseNotes>
     <version>17.0.242</version>
   </metadata>
