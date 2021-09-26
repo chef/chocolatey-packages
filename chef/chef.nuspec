@@ -9,7 +9,7 @@
     <authors>Chef Software, Inc.</authors>
     <owners>Chef Software, Inc.</owners>
     <copyright>Chef Software, Inc.</copyright>
-    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <bugTrackerUrl>https://github.com/chef/chef/issues</bugTrackerUrl>
     <docsUrl>https://docs.chef.io/</docsUrl>
     <iconUrl>https://raw.githubusercontent.com/chef/chocolatey-packages/master/chef.png</iconUrl>
