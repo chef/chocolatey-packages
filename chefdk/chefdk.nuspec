@@ -9,10 +9,10 @@
     <authors>Chef Software, Inc.</authors>
     <owners>Chef Software, Inc.</owners>
     <copyright>Chef Software, Inc.</copyright>
-    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <bugTrackerUrl>https://github.com/chef/chef-dk/issues</bugTrackerUrl>
     <docsUrl>https://docs.chef.io/about_chefdk.html</docsUrl>
-    <licenseUrl>https://raw.githubusercontent.com/chef/chef-dk/main/LICENSE</licenseUrl>
+    <licenseUrl>https://www.chef.io/end-user-license-agreement/</licenseUrl>
     <mailingListUrl>https://discourse.chef.io/</mailingListUrl>
     <packageSourceUrl>https://github.com/chef/chocolatey-packages/</packageSourceUrl>
     <projectSourceUrl>https://github.com/chef/chef-dk</projectSourceUrl>
