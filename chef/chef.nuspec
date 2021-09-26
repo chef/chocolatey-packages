@@ -15,7 +15,6 @@
     <iconUrl>https://raw.githubusercontent.com/chef/chocolatey-packages/master/chef.png</iconUrl>
     <licenseUrl>https://www.chef.io/end-user-license-agreement/licenseUrl>
     <mailingListUrl>https://discourse.chef.io/</mailingListUrl>
-    <packageSourceUrl>https://github.com/chef/chocolatey-packages/</packageSourceUrl>
     <projectUrl>https://www.chef.io/products/chef-infra</projectUrl>
     <projectSourceUrl>https://github.com/chef/chef</projectSourceUrl>
     <releaseNotes>[Release Notes](https://docs.chef.io/release_notes_client/)</releaseNotes>
