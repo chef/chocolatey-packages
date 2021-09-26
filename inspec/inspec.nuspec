@@ -9,11 +9,11 @@
     <authors>Chef Software, Inc.</authors>
     <owners>Chef Software, Inc.</owners>
     <copyright>Chef Software, Inc.</copyright>
-    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <bugTrackerUrl>https://github.com/inspec/inspec/issues</bugTrackerUrl>
     <docsUrl>https://docs.chef.io/inspec</docsUrl>
     <iconUrl>https://raw.githubusercontent.com/chef/chocolatey-packages/main/inspec/inspec.png</iconUrl>
-    <licenseUrl>https://raw.githubusercontent.com/inspec/inspec/main/LICENSE</licenseUrl>
+    <licenseUrl>https://www.chef.io/end-user-license-agreement/</licenseUrl>
     <mailingListUrl>https://discourse.chef.io/</mailingListUrl>
     <packageSourceUrl>https://github.com/chef/chocolatey-packages/</packageSourceUrl>
     <projectSourceUrl>https://github.com/inspec/inspec</projectSourceUrl>
