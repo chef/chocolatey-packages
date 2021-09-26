@@ -18,7 +18,7 @@
     <packageSourceUrl>https://github.com/chef/chocolatey-packages/</packageSourceUrl>
     <projectSourceUrl>https://github.com/chef/chef</projectSourceUrl>
     <projectUrl>https://github.com/chef/chef/</projectUrl>
-    <releaseNotes>[Release Notes](https://github.com/chef/chef/blob/v17.0.242/RELEASE_NOTES.md)</releaseNotes>
+    <releaseNotes>[Release Notes](https://docs.chef.io/release_notes_client/)</releaseNotes>
     <version>17.0.242</version>
   </metadata>
   <files>
