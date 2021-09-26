@@ -17,6 +17,7 @@
     <mailingListUrl>https://discourse.chef.io/</mailingListUrl>
     <projectUrl>https://www.chef.io/products/chef-infra</projectUrl>
     <projectSourceUrl>https://github.com/chef/chef</projectSourceUrl>
+    <packageSourceUrl>https://github.com/chef/chocolatey-packages</packageSourceUrl>
     <releaseNotes>[Release Notes](https://docs.chef.io/release_notes_client/)</releaseNotes>
     <version>17.0.242</version>
   </metadata>
