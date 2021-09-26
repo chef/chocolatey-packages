@@ -12,7 +12,7 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <bugTrackerUrl>https://github.com/inspec/inspec/issues</bugTrackerUrl>
     <docsUrl>https://docs.chef.io/inspec</docsUrl>
-    <iconUrl>https://raw.githubusercontent.com/chef/chocolatey-packages/main/inspec.png</iconUrl>
+    <iconUrl>https://raw.githubusercontent.com/chef/chocolatey-packages/main/inspec/inspec.png</iconUrl>
     <licenseUrl>https://raw.githubusercontent.com/inspec/inspec/main/LICENSE</licenseUrl>
     <mailingListUrl>https://discourse.chef.io/</mailingListUrl>
     <packageSourceUrl>https://github.com/chef/chocolatey-packages/</packageSourceUrl>

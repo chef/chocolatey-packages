@@ -12,7 +12,7 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <bugTrackerUrl>https://github.com/chef/chef-dk/issues</bugTrackerUrl>
     <docsUrl>https://docs.chef.io/about_chefdk.html</docsUrl>
-    <iconUrl>https://raw.githubusercontent.com/chef/chocolatey-packages/main/chef.png</iconUrl>
+    <iconUrl>https://raw.githubusercontent.com/chef/chocolatey-packages/main/chefdk/chef.png</iconUrl>
     <licenseUrl>https://raw.githubusercontent.com/chef/chef-dk/main/LICENSE</licenseUrl>
     <mailingListUrl>https://discourse.chef.io/</mailingListUrl>
     <packageSourceUrl>https://github.com/chef/chocolatey-packages/</packageSourceUrl>
