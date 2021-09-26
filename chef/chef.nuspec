@@ -12,7 +12,7 @@
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <bugTrackerUrl>https://github.com/chef/chef/issues</bugTrackerUrl>
     <docsUrl>https://docs.chef.io/</docsUrl>
-    <iconUrl>https://raw.githubusercontent.com/chef/chocolatey-packages/master/chef.png</iconUrl>
+    <iconUrl>https://raw.githubusercontent.com/chef/chocolatey-packages/main/chef.png</iconUrl>
     <licenseUrl>https://www.chef.io/end-user-license-agreement/licenseUrl>
     <mailingListUrl>https://discourse.chef.io/</mailingListUrl>
     <projectUrl>https://www.chef.io/products/chef-infra</projectUrl>
