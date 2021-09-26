@@ -17,8 +17,8 @@
     <mailingListUrl>https://discourse.chef.io/</mailingListUrl>
     <packageSourceUrl>https://github.com/chef/chocolatey-packages/</packageSourceUrl>
     <projectSourceUrl>https://github.com/inspec/inspec</projectSourceUrl>
-    <projectUrl>https://github.com/inspec/inspec/</projectUrl>
-    <releaseNotes>https://docs.chef.io/release_notes_inspec/</releaseNotes>
+    <projectUrl>https://www.chef.io/products/chef-inspec</projectUrl>
+    <releaseNotes>[Release Notes](https://docs.chef.io/release_notes_inspec/)</releaseNotes>
     <version>4.36.4</version>
   </metadata>
   <files>
