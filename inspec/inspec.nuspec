@@ -11,7 +11,7 @@
     <copyright>Chef Software, Inc.</copyright>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <bugTrackerUrl>https://github.com/inspec/inspec/issues</bugTrackerUrl>
-    <docsUrl>https://www.inspec.io/docs/</docsUrl>
+    <docsUrl>https://docs.chef.io/inspec</docsUrl>
     <iconUrl>https://raw.githubusercontent.com/chef/chocolatey-packages/master/inspec.png</iconUrl>
     <licenseUrl>https://raw.githubusercontent.com/inspec/inspec/master/LICENSE</licenseUrl>
     <mailingListUrl>https://discourse.chef.io/</mailingListUrl>
