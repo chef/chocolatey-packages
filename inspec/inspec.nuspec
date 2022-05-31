@@ -19,7 +19,7 @@
     <projectSourceUrl>https://github.com/inspec/inspec</projectSourceUrl>
     <projectUrl>https://www.chef.io/products/chef-inspec</projectUrl>
     <releaseNotes>[Release Notes](https://docs.chef.io/release_notes_inspec/)</releaseNotes>
-    <version>4.46.13</version>
+    <version>5.17.4</version>
   </metadata>
   <files>
     <file src="tools\**" target="tools"/>
