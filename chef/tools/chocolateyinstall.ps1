@@ -6,7 +6,7 @@ $packageArgs = @{
     url64          = "https://packages.chef.io/files/stable/chef/$version/windows/2012r2/chef-client-$version-1-x64.msi"
     silentArgs     = '/quiet'
     validExitCodes = @(0)
-    checksum64     = '688647188d8aeb610a56c2ca4e2aa3903cb12ff8b12bf6cfbf324e52b5cba6d8'
+    checksum64     = 'd584e40da66acd72091199ac57326e4dc36dc66a8f79ad5668bf9c20a52ecb90'
     checksumType64 = 'sha256'
 }
 
