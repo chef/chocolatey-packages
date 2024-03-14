@@ -19,7 +19,7 @@
     <projectSourceUrl>https://github.com/chef/chef</projectSourceUrl>
     <projectUrl>https://www.chef.io/products/chef-infra</projectUrl>
     <releaseNotes>[Release Notes](https://docs.chef.io/release_notes_client/)</releaseNotes>
-    <version>18.4.2</version>
+    <version>18.4.12</version>
   </metadata>
   <files>
     <file src="tools\**" target="tools"/>
