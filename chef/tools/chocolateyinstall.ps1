@@ -1,4 +1,4 @@
-$version = '18.4.12'
+$version = '18.5.0'
 
 $packageArgs = @{
     packageName    = 'chef-client'
