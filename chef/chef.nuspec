@@ -8,7 +8,7 @@
     <description>Chef Infra Client is a configuration management tool designed to bring automation to your entire infrastructure.</description>
     <authors>Chef Software, Inc.</authors>
     <owners>Chef Software, Inc.</owners>
-    <copyright>Chef Software, Inc.</copyright>
+    <copyright>Copyright (c) 2018-2026 Progress Software Corporation and/or its subsidiaries or affiliates. All Rights Reserved.</copyright>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <bugTrackerUrl>https://github.com/chef/chef/issues</bugTrackerUrl>
     <docsUrl>https://docs.chef.io/</docsUrl>
