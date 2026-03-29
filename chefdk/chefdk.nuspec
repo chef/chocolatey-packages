@@ -8,7 +8,7 @@
     <description>ChefDK has been deprecated and replaced with Chef Workstation, which includes all the same tools + many more..</description>
     <authors>Chef Software, Inc.</authors>
     <owners>Chef Software, Inc.</owners>
-    <copyright>Chef Software, Inc.</copyright>
+    <copyright>Copyright (c) 2018-2026 Progress Software Corporation and/or its subsidiaries or affiliates. All Rights Reserved.</copyright>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <bugTrackerUrl>https://github.com/chef/chef-dk/issues</bugTrackerUrl>
     <docsUrl>https://docs.chef.io/about_chefdk.html</docsUrl>

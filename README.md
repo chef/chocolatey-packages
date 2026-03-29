@@ -19,3 +19,6 @@ A place for storing [Chocolatey](https://chocolatey.org/) packages managed by Ch
 - Push the package to Chocolatey: `choco push .\chefdk.2.5.3.nupkg`
 
 Once the package passes automated testing in Chocolatey's test infrastructure, the package will be available to the public.
+
+# Copyright
+See [COPYRIGHT.md](./COPYRIGHT.md).
